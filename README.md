@@ -12,3 +12,5 @@
   [http](https://pub.dev/packages/http)
   [path](https://pub.dev/packages/path)
   [fl_chart](https://pub.dev/packages/fl_chart)
+  
+  LICENSE:MIT
